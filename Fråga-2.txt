@@ -1,4 +1,0 @@
-Vad är ett Git-commit och varför är det viktigt?
-
-Svar: Man kan säga att en Git-commit är som en checkpoint. Den tar en "snapshot" på dina filer
-med en kommentar som förklarar vilka ändringar du har gjort.

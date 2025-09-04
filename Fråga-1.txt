@@ -1,0 +1,20 @@
+Beskriv skillnaden mellan vattenfallsmodellen och agil metodik
+
+# Skillnaden mellan vattenfallsmodellen och agil metodik
+
+**Vattenfallsmodellen** används när man har ett projekt med:
+- Tydliga mål  
+- Tydliga specifikationer som inte kommer att ändras  
+- En deadline att möta  
+
+Användaren är bara inblandad i början av projektet. När mål och specifikationer har fastställts börjar man arbeta tills slutprojektet är levererat. Varje fas måste slutföras innan man kan gå vidare.
+
+---
+
+**Agil metodik** används när:
+- Kraven är otydliga  
+- Kraven kan förändras eller utvecklas under projektets gång  
+
+Agil metodik är mer flexibel och tillåter ändringar om något händer eller om användaren vill ha nya specifikationer.  
+Man har ständig kontakt med användaren och samlar in feedback för att förbättra projektet varje gång det testas.  
+Arbetet delas ofta upp i olika faser, t.ex. *sprint 1, sprint 2* osv.

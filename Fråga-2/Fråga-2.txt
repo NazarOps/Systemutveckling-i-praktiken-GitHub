@@ -1,0 +1,6 @@
+Vad är ett Git-commit och varför är det viktigt?
+
+Svar: Man kan säga att en Git-commit är som en checkpoint i ett spel.
+Det är en sparpunkt som du kan gå tillbaka till ifall något går fel.
+När du gör en commit i Git, sparar du en ögonblicksbild av alla
+ändringar du har gjort i din kod.
